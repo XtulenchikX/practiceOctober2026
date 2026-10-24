@@ -17,7 +17,7 @@
 
 ### Отчетность по практике
 
-- [Задание в формате DOCX]()
-- [Задание в формате PDF]()
-- [Отчет в формате DOCX]()
-- [Отчет в формате PDF]()
+- [Задание в формате DOCX](https://github.com/XtulenchikX/practiceOctober2026/blob/main/Отчетность/Задание%20на%20практику%20Стецук%202%20курс%20КЭО.docx)
+- [Задание в формате PDF](https://github.com/XtulenchikX/practiceOctober2026/blob/main/Отчетность/Задание%20на%20практику%20Стецук%202%20курс%20КЭО.pdf)
+- [Отчет в формате DOCX](https://github.com/XtulenchikX/practiceOctober2026/blob/main/Отчетность/Отчет%20по%20практике%20Стецук%202%20курс%20КЭО.docx)
+- [Отчет в формате PDF](https://github.com/XtulenchikX/practiceOctober2026/blob/main/Отчетность/Отчет%20по%20практике%20Стецук%202%20курс%20КЭО.pdf)
